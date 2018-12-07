@@ -15,7 +15,7 @@ h3 {
     height: 15vw;
     object-fit: cover;
 }
- 
+
  /* Navbar */
 
 .navbar-brand {
@@ -37,7 +37,7 @@ h3 {
 
 .active .nav-link {
 	color: lightcoral !important;
-} 
+}
 
 /* Section-1 */
 
@@ -53,5 +53,5 @@ h3 {
 
 
 @media (max-width: 768px) {
-	
+
 }
